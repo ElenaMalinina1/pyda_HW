@@ -11,8 +11,8 @@ Diplom - Дипломная работа
 Machine_Learning - Класическое машинное обучение
 
 Python - содержит дз по основам Python, статистики и математики для DS
-       * Math_for_Data_Science - Задачи по основам математики для DS
-       * Python_extracting & processing data - Сервис 'Открытое образование' от ВШЭ, основы Python
+- Math_for_Data_Science - Задачи по основам математики для DS
+- Python_extracting & processing data - Сервис 'Открытое образование' от ВШЭ, основы Python
 
 NLP - Обработка естественного языка
 
