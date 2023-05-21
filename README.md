@@ -6,14 +6,18 @@ Data_visualization - Визуализация данных: от скучных 
 
 Deep Learning - Обучение ANN (искусственные нейронные сети) 
 
-Diplom -дипломная работа
+Diplom - Дипломная работа
 
 Machine_Learning - Класическое машинное обучение
 
 Python - содержит дз по основам Python, статистики и математики для DS
+       * Math_for_Data_Science - Задачи по основам математики для DS
+       * Python_extracting & processing data - Сервис 'Открытое образование' от ВШЭ, основы Python
 
 NLP - Обработка естественного языка
 
 Recommender systems - Рекомендательные системы
 
 Time Siries - Временные ряды
+
+test - Решение тестовых задач
